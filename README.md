@@ -1,2 +1,2 @@
 # shan-rubyonrailsAWS
-This repo servers the purpose of deployment of Ruby on Rails application AWS
+This repo serves the purpose of deployment of Ruby on Rails application on AWS.
