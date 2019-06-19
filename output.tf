@@ -1,4 +1,4 @@
-output "server-ip" {
-  value = "${aws_eip.ipaddress.public_ip}"
+output "curl-ip" {
+  value = "${aws_eip.ipaddress.public_ip}:8080"
 }
 
